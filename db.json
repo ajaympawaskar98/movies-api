@@ -1,0 +1,68 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Fast X",
+        "genre": "Action",
+        "actor": "Vin Diesel",
+        "director":"Vin Diesel",
+        "year":"2023"
+      },
+      {
+        "id": 2,
+        "title": "KGF-2",
+        "genre": "Action",
+        "actor": "Yash",
+        "director":"Prashanth Neel",
+        "year":"2022"
+      },
+      {
+        "id": 3,
+        "title": "Kantara",
+        "genre": "Thriller",
+        "actor": "Rishab Shetty",
+        "director":"Rishab Shetty",
+        "year":"2022"
+      },
+      {
+        "id": 4,
+        "title": "Charlie 777",
+        "genre": "Adventures",
+        "actor": "Rakshith Shetty",
+        "director":"Rakshith Shetty",
+        "year":"2022"
+      },
+      {
+        "id": 5,
+        "title": "Kabza",
+        "genre": "Action",
+        "actor": "Upendra",
+        "director":"Chandru",
+        "year":"2023"
+      },
+      {
+        "id": 6,
+        "title": "Adipurush",
+        "genre": "Drama",
+        "actor": "Prabhas",
+        "director":"vivek",
+        "year":"2023"
+      },
+      {
+        "id": 7,
+        "title": "Bahubali-2",
+        "genre": "Drama",
+        "actor": "Prabhas",
+        "director":"Rajmouli",
+        "year":"2019"
+      },
+      {
+        "id": 8,
+        "title": "vikram",
+        "genre": "Action",
+        "actor": "Kamal Hassan",
+        "director":"raghavendra",
+        "year":"2022"
+      }
+    ]
+  }
